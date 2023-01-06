@@ -22,5 +22,5 @@ Se realiza pequeño proyecto para repositorio de un quiz, sobre capitales de pai
 
 ## Demo
 
-[da clic en este texto, para ir al sitio desplegador de la pagina](https://keen-lily-2bc357.netlify.app/)
+Puedes ver un despliegue de este proyecto haciendo click [Aquí](https://keen-lily-2bc357.netlify.app/)
 
